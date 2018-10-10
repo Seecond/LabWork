@@ -1,13 +1,11 @@
-//
+ï»¿//
 /*----------------------------------------------------*
-example2_03.cpp£º²¼¶ûĞÍÊ¾Àı
+ example2_03.cppï¼šå¸ƒå°”å‹ç¤ºä¾‹
 *-----------------------------------------------------*/
 
 #include <iostream>
 
-#include<windows.h>
-
-using namespace std;  //¸ÃÖ¸Áîº­¸ÇÁËC++µÄÃû×Ö¿Õ¼äÖĞËùÓĞµÄ±êÊ¶·û
+using namespace std;  //è¯¥æŒ‡ä»¤æ¶µç›–äº†C++çš„åå­—ç©ºé—´ä¸­æ‰€æœ‰çš„æ ‡è¯†ç¬¦
 
 int main()
 {
@@ -15,6 +13,5 @@ int main()
 
 	cout << f << "  " << boolalpha << f << "  " << noboolalpha << f << endl;
 
-	system("pause");
 	return 0;
 }
